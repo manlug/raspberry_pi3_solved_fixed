@@ -2,6 +2,10 @@
 1. Problema de sonido
 Respuesta rápida:
 
+>uname -a
+
+Linux raspberrypi 5.10.103-v7+ #1529 SMP Tue Mar 8 12:21:37 GMT 2022 armv7l GNU/Linux
+
 >less /home/pi/.asoundrc
 defaults.pcm .card 1
 defaults.pcm.device 0
